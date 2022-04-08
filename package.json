@@ -17,6 +17,7 @@
   "bugs": {
     "url": "https://github.com/phuocdt23/upload_file_project-7_4_22/issues"
   },
+<<<<<<< HEAD
   "homepage": "https://github.com/phuocdt23/upload_file_project-7_4_22#readme",
   "devDependencies": {
     "nodemon": "^2.0.15"
@@ -27,4 +28,7 @@
     "mongodb": "^4.5.0",
     "multer": "^1.4.4"
   }
+=======
+  "homepage": "https://github.com/phuocdt23/upload_file_project-7_4_22#readme"
+>>>>>>> 9fbb326306c84275f251f950bd64d855e83437ba
 }
